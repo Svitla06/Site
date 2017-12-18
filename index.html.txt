@@ -1,0 +1,13 @@
+<! DOC TYPE HTML>
+<HTML lang ="en">
+<head> 
+<title> document </title>
+
+</head>
+<body> 
+<hl> Зміна 1 </hl>
+<p> Зміна 2 </p>
+
+
+</body>
+</html>
